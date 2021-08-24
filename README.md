@@ -4,7 +4,7 @@
 
 ## Backend Test Task
 
-Congratulations! You have received a contract from NASA for software application, which will help to calculate fuel required for the flight. The goal of this application is to calculate fuel to launch from one planet of the Solar system, and to land on another planet of the Solar system, depending on the flight route.
+The goal of this application is to calculate fuel to launch from one planet of the Solar system, and to land on another planet of the Solar system, depending on the flight route.
 
 Formula to calculate fuel is quite simple, but it depends on the planet's gravity. Planets NASA is interested in are:
 ```
@@ -72,6 +72,4 @@ weight of equipment: 75432 kg
 weight of fuel: 212161 kg
 arguments: 75432, [[:launch, 9.807], [:land, 1.62], [:launch, 1.62], [:land, 3.711], [:launch, 3.711], [:land, 9.807]]
 ```
-P.S. It is very important   to create not just a working code but also maintainable and readable code, so take your time and show your best.
-
 
